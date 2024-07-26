@@ -14,8 +14,9 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 1. Clone o repositório:
 
    ```
-   git clone https://seu-repositorio/star-wars-characters-app.git
+   git clone git@github.com:felpst/teachy-challenge.git
    cd star-wars-characters-app
+   cd frontend-challenge
    ```
 
 2. Instale as dependências:
@@ -71,7 +72,3 @@ npm start
 ## Contribuindo
 
 Contribuições são bem-vindas! Por favor, leia as diretrizes de contribuição antes de enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
